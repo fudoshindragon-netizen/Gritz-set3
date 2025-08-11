@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grit-protocol/static/css/main.d2367066.css",
+    "main.js": "/grit-protocol/static/js/main.719a8346.js",
+    "index.html": "/grit-protocol/index.html",
+    "main.d2367066.css.map": "/grit-protocol/static/css/main.d2367066.css.map",
+    "main.719a8346.js.map": "/grit-protocol/static/js/main.719a8346.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2367066.css",
+    "static/js/main.719a8346.js"
+  ]
+}
