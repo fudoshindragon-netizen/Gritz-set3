@@ -26,17 +26,6 @@
 
 Visit: **https://moonshot.com/iaHdC8eJRacH21XRxTzfnGoy9mHjG9WDXCcYMRnmoon?ref=uyBQuyVmLM**
 
-## 🛠️ Local Development
 
-```bash
-npm install
-npm start
-```
-
-## 🚀 Deploy to GitHub Pages
-
-This repository is configured for automatic deployment to GitHub Pages via GitHub Actions.
-
----
 
 **GRIT Protocol - Still here. Still grinding. Built different.**
